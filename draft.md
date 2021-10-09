@@ -50,9 +50,17 @@ daily schedule before vs after playing piano
 build a habit vs learn an instrument
     atomic habit
 
+Mindset
+    keep the music played
+    move out your comfort zone
+    break into small parts
+    use technology/tools
+
+
 How not to quit
     transcribe music
     sing
+    find the music that you can easily play through it (Hisaishi)
     record some meme video
     find interesting sheet
     play different genre
@@ -67,11 +75,6 @@ How not to quit
     Adjust your sheet height
 
 
-Mindset
-    keep the music played
-    move out your comfort zone
-    break into small parts
-    use technology/tools
 
 [addition tool]
     drum
@@ -146,6 +149,7 @@ gonna try
 piano
 flute
     breath
+    dizzy
     *oxygen advantage
     打嗝
 violin
@@ -153,3 +157,77 @@ cello
 sax
 midi
 vocal
+
+
+
+Before July 2021, I couldn't imagine myself playing piano.
+
+## Why write this?
+I started playing piano in the middle of July 2021. 
+
+Before I forgot the beginner's mind I would like to share some tips for those who want to learn piano by themselves in a beginner's perspective.
+
+Most of the approach I used is based on my research, it might contain some experiments. Free feel to discuss about it.
+
+Also, this project adopt "learn in public" ethos, not only demostrate my result but also track my learning journey. I'll try to update my progress every season.
+
+## Background
+This project is meant to give direction to those who want to self-taught piano, get to know some of my background might be helpful.
+
+I used to learn violin when I was 12.
+Learned about 1.5 years in a after school talent studio.
+
+I thought I played nice back then, but actually lack of proper training.
+
+Since most of the after school class charge according to student's progress, they try to skip fundentmental practice and move to pieces.
+
+I'm not those kid who will take music as their major later, teacher can tell it.
+I have zero music theory knowledge when I learned violin, explaining music concept with piano to me make no sense.
+So they just some sheet that I could play but not really helpful for basic skills.
+
+I was happy to play a entire song when I was a kid, but lack of fundemental training makes me sound like sawing after dropping violin for 10 years.
+
+One of the problem of talent school is teacher show you how to play, but didn't really tell you why play like that.
+
+Probably no one tell them either.
+
+There's at less three types of bow holding position, but not until I found books about violin pedagogy in library recently that I know their difference.
+
+Neither will they examain ergonomics.
+
+Honestly, we use a weird position to play violin.
+
+To prevent bending our neck to much and support violin, we use a shoulder rest.
+
+But the length of nack different from man to man.
+
+And sweat.
+
+Asia is hot. Expecially Taiwan.
+
+When you practiced violin in summer, chin rest got really slippery. I found the metal part of my violin is rusted after years of sweat.(?)
+
+I know nothing about shoulder when I was a kid, so the shoulder rest always slipped after play several minutes.
+
+Not until recently I found I might need a higher shoulder rest to better support my violin.
+
+You need to get feedback when you learn something new, but the feedback don't have to be teacher.
+
+Don't leave the obligation of learning to your teacher, they won't care before you spend time working on it.
+
+And did I learn piano before? Presumbably yes. Too short to remember. 
+
+I couldn't recall if I have a piano teacher. But my mom did teach me.
+
+She is not a piano teacher, I'm not a prodigy. 
+
+I don't know how to learn, she don't know how to teach, you could tell the result.
+
+All this weird previuos experience make me think I couldn't play piano. Things related to music had been into oblivion for decade.
+
+Until July 2021.
+
+## How it start
+Dr.k (trolling with piano is awesome)
+how to start a habit?
+start small and simple
