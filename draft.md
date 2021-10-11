@@ -103,6 +103,7 @@ How not to quit
 [knowledge]
     指法
     syncopation
+    signt reading
 
     melody
     harmony
@@ -341,16 +342,97 @@ After you successfully started the habit as the first step of your music journey
 The most important one is keep the music played (aka. How not to quit). Let me share some tips I used to keep the music flow.
 
 ## How not to quit
-    transcribe music
+    watch other play what you're playing
+    transcribe music / ear training
     sing
     find the music that you can easily play through it (Hisaishi)
+    
     record some meme video
+    play other instrument    
     find interesting sheet
     play different genre
-    play other instrument
-    watch other play what you're playing
-    share your progress
+    
     play public piano(try different piano)
+    share your progress
+    
+
+Being able to play music is a satisifying experience, but it requires you keep practicing to overcame challenges you faced in your music adventage.
+
+In my first 2 weeks of piano playing, there's nearly zero difficulties. I have no idea about fingering and I haven't met bass cief yet some most of the thing works fine if I played slow.
+
+However, after I got into the later part of children's Beyer and read more books about piano pedagogy, things started to get difficult.
+
+I can read treble cief cause I learned violin before, but I have no clue about how to read bass cief so I have to count the note.
+
+Fingering is so important for a self-taught beginner. Without it you'll probably practice the same sheet with different fingering every time and it harms your progress.
+
+Bottle neck came fast via theses challenges, and it's frustating.
+
+There's several tips I used to help myself keep played the piano even encounter bottle neck.
+
+- Watch other play what you're playing
+You can find most of the music you played on the Internet. Watch different people play with different style helps you get some inspiration and demystify your confusion.
+
+- Transcribe music / ear training
+This is the fun part. When I encounter some different sheet and feel frustrated about it, I'll relax and find some popular anime / meme style music and transcribe the motif.
+Find some music the excites you, tinkering and see if you could get the motif. Use your ears first, you can always look for the sheet later on.
+
+- Sing
+I used to feel unsecure about my voice, but after finding that you could train your voice like every other skills in the world, I started to sing.
+
+Find some song that got simple but charming melody. Folk song is a great choice you can start with, switch an octave if it's too high or too low for you. 
+
+You want to sing and enjoy yoruself, so don't worry about correctiness at this point.
+
+BTW, sea shanties and blues also sound great!
+
+
+- Find the music that you can easily play through it (Hisaishi)
+When you enocunter bottleneck, you find your passion drops. Don't let it fade away, find some sheet that you can go through with.
+
+Hisaishi's music is always a great choice!
+
+You can play Hisishi's music with single hand when you're a beginner or add some complicate harmony if you're an advanced player.
+
+Being able to finish a music when you encounter difficulties give you the confidience, and confidence help you conquer everything.
+
+
+- Record some videos
+Record how you played and share it! 
+
+Even if you don't want to share it you'll still get a lot of insights when you watch yourself playing.
+
+Look at your finger and listen to the video you recorded. You'll always find something to work on.
+
+Go record yourself playing piano now!
+
+- Play other instrument
+Don't limit yourself in one instrument if you can access other instrument, whether it's a physical instrument or a DAW with midi controller.
+
+Playing same song from different instruments can give you a unique experience. Your phone can also be a instrument if you don't have other intrument.
+
+Feel the music and play it on different medium.
+
+- Find interesting sheet
+Being a self-taught pianoist, sometimes we give ourself a sheet that is too hard or too easy to play with. 
+
+Finding a proper sheet the meets your skill takes effort.
+
+Go look for interesting sheet in library or book store, look for recommendation in forums, an interesting sheet always broaden your horizon.
+
+
+- Play different genre
+You don't have to be a classical pianoist.
+
+Bach is amazing, Beethoven is great, but it doesn't make sense for you to try to clone them.
+
+Explore different music style and come up with your own style.
+
+Jazz, R&B, Boogie woogie, Bosanova, electric, there are a wide range of music genre you should try, feel the difference and play it! Keep in mind there's no computer in old days, we got lots of advantages!
+
+- Play public piano(try different piano)
+
+- Share your progress
 
 ## Move out your comfort zone
 
