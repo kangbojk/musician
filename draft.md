@@ -298,33 +298,34 @@ I played several minutes in the very beginning and have no stable rountine, but 
 
 There's my schedule before and after playing piano for your reference.
 
-daily schedule before vs after playing piano
-    (before)
-    7:00-8:00 read / plan
-    8:00-8:30 breakfast
-    8:30-9:00 read blog/article
-    9:00:12:30 work
-    12:30-14:00 lunch and nap
-    14:00-18:00 work
-    18:00-19:00 dinner
-    19:00-20:30 video editing
-    20:30-21:30 gym/tennis
-    21:30-22:30 Youtube
-    22:30-23:00 reading books
+__Daily schedule before vs after playing piano__
 
-    (after)
-    6:30-8:00 planning/working on important task
-    8:00-8:30 breakfast
-    8:45-9:30 learn French & Korean with duolingo & memrise
-    9:30-10:00 read blog/article
-    10:00-12:30 work
-    12:30-14:00 lunch and nap
-    14:00-17:30 work
-    17:30-18:30 workout/tennis
-    18:30-19:30 dinner
-    19:30-21:45 piano
-    21:45-22:30 flute
-    22:30-23:00 reading books
+(before)
+* 7:00-8:00 read / plan
+* 8:00-8:30 breakfast
+* 8:30-9:00 read blog/article
+* 9:00:12:30 work
+* 12:30-14:00 lunch and nap
+* 14:00-18:00 work
+* 18:00-19:00 dinner
+* 19:00-20:30 video editing
+* 20:30-21:30 gym/tennis
+* 21:30-22:30 Youtube
+* 22:30-23:00 reading books
+
+(after)
+* 6:30-8:00 planning/working on important task
+* 8:00-8:30 breakfast
+* 8:45-9:30 learn French & Korean with duolingo & memrise
+* 9:30-10:00 read blog/article
+* 10:00-12:30 work
+* 12:30-14:00 lunch and nap
+* 14:00-17:30 work
+* 17:30-18:30 workout/tennis
+* 18:30-19:30 dinner
+* 19:30-21:45 piano
+* 21:45-22:30 flute
+* 22:30-23:00 reading books
 
 By the way, I have no idea about whether it's good to use Beyer as your first book. 
 
@@ -339,22 +340,9 @@ Build a habit instead of try learning a instrument is a great mindset, and I'll 
 
 After you successfully started the habit as the first step of your music journey, you'll have to think about how to practice properly and improve as an intermediate player.
 
-The most important one is keep the music played (aka. How not to quit). Let me share some tips I used to keep the music flow.
+The most important one is **keep the music played** (aka. How not to quit). Let me share some tips I used to keep the music flow.
 
-## How not to quit
-    watch other play what you're playing
-    transcribe music / ear training
-    sing
-    find the music that you can easily play through it (Hisaishi)
-    
-    record some meme video
-    play other instrument    
-    find interesting sheet
-    play different genre
-    
-    play public piano(try different piano)
-    share your progress
-    
+## How not to quit   
 
 Being able to play music is a satisifying experience, but it requires you keep practicing to overcame challenges you faced in your music adventage.
 
@@ -431,11 +419,49 @@ Explore different music style and come up with your own style.
 Jazz, R&B, Boogie woogie, Bosanova, electric, there are a wide range of music genre you should try, feel the difference and play it! Keep in mind there's no computer in old days, we got lots of advantages!
 
 - Play public piano(try different piano)
+If you are lucky, you'll find some public pianos in your city. 
+
+Go play it!
+
+Don't be shy because you're a beginner, every master was once a beginner.
+
+Enjoy yourself whether you played alone or played in public, music is meant to bring joy to people.
 
 - Share your progress
+Share your thoughts and progress in the form of blog or video.
+
+When you share your work publicly, you raise the chance to meet peopel as passion as you are. You might got the chance to grow together or collaborate.
+
+And that's why I start this project. Go and share it with the world!
+
 
 ## Move out your comfort zone
+Second mindset you should bear is move out your comfort zone consistently.
+
+To achieve advanced piano skills, you should try something that is a little challenging to you.
+
+Not too hard, not too easy, a little challenge brings you to another level.
+
+Playing the sheet you're familiar bring you satisify, but keep progressing makes you able to play lots of different sheet.
+
+How to effectively move out your comfort zone takes effort and perseverance. The reward will not arrive immediately, but when it comes, you'll glad you've always tried to challenge yourself.
+
 
 ## Break into small parts
+Third, break into small parts.
+
+Don't always start in the very beginning of a sheet. Start where you feel most friction.
+
+Sometimes a piano repertoire can get hundreds of bars, treat it as a huge master piece is like messing up a bool of wool.
+
+Break it!
+
+Slice into smaller piece that you feel you can handle it.
+
+Treat piano practicing as a video game level instead of a odyssey journey. 
+
+When you played a video game, you restart where your character died. So as practing piano. Start at where you fail the most. Think how you would conquer those parts you fail most in the repertoire just like thinking how you will conquer the boss in video games.
+
+Divide it into small parts, conquer them individually!
 
 ## Use technology/tools
